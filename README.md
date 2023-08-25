@@ -1,4 +1,4 @@
 # Rahul-demo
-my first repository in github.
+My first repository in github.
 <br>
 Author-Rahul Rajai
